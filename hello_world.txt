@@ -1,0 +1,3 @@
+Extra texts are added here as instructed.
+The Odin Project.
+Git Basics
